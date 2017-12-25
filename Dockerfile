@@ -15,7 +15,4 @@ COPY etc/lighttpd/* /etc/lighttpd/
 
 EXPOSE 80
 
-VOLUME /var/www/localhost
-VOLUME /etc/lighttpd
-
 CMD ["lighttpd", "-D", "-f", "/etc/lighttpd/lighttpd.conf"]
