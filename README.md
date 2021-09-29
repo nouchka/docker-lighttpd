@@ -1,3 +1,9 @@
+# docker-lighttpd
+[![Docker pull](https://img.shields.io/docker/pulls/nouchka/lighttpd)](https://hub.docker.com/r/nouchka/lighttpd/)
+[![Docker stars](https://img.shields.io/docker/stars/nouchka/lighttpd)](https://hub.docker.com/r/nouchka/lighttpd/)
+[![Build Status](https://gitlab.com/japromis/docker-lighttpd/badges/master/pipeline.svg)](https://gitlab.com/japromis/docker-lighttpd/pipelines)
+[![Docker size](https://img.shields.io/docker/image-size/nouchka/lighttpd/latest)](https://hub.docker.com/r/nouchka/lighttpd/)
+
 # lighttpd Docker image
 
 Security, speed, compliance, and flexibility -- all of these describe [lighttpd](http://www.lighttpd.net/)
